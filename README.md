@@ -44,3 +44,7 @@ After cleaning the dataset, the EDA process begins. The analysis can involve var
 
 Conclusion:
 The EDA on Indian food dataset provides valuable insights into the characteristics, variations, and popularity of Indian cuisine. The analysis helps in understanding the diversity of Indian food, identifying key ingredients, regional variations, and popular dishes. These insights can be useful for culinary enthusiasts, food researchers, nutritionists, and even restaurant owners looking to understand Indian cuisine better or develop new recipes.
+
+Coding Link
+
+https://colab.research.google.com/drive/1qTmxeZtC2VnIOOCsKmykVGi_dMj3Oevb?usp=sharing
