@@ -48,3 +48,9 @@ The EDA on Indian food dataset provides valuable insights into the characteristi
 Coding Link
 
 https://colab.research.google.com/drive/1qTmxeZtC2VnIOOCsKmykVGi_dMj3Oevb?usp=sharing
+
+Project Demo Link
+
+https://drive.google.com/file/d/1Fw5ANBvvO_82JNTMgo6zXtI6kD1MFm2Y/view?usp=drivesdk
+
+https://drive.google.com/file/d/1Fv_L0B6Hy5_z_jLMc1Rycopa8CzH8ioS/view?usp=drivesdk
